@@ -26,6 +26,12 @@ Here's a comprehensive GitHub repository description for your motion sickness pr
   Continuous protection even when app is minimized
 - **Personalized Adaptation**  
   ML-powered settings optimization (using ML.NET)
+- **AR Stabilization**  
+  Augmented reality-based stabilization techniques 🕶️
+- **Wearable Device Integration**  
+  Support for various wearable devices ⌚
+- **Cross-Platform Overlay Solutions**  
+  Consistent overlay experience across Android and iOS 📱
 
 ## 🛠️ Technology Stack
 
@@ -41,6 +47,10 @@ graph TD
     A --> I[Biofeedback]
     I --> J[Heart Rate Monitoring]
     I --> K[Accelerometer Processing]
+    A --> L[AR Stabilization]
+    L --> M[ARCore/ARKit Integration]
+    A --> N[Wearable Devices]
+    N --> O[Smartwatch Integration]
 ```
 
 ## 📱 Installation
