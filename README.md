@@ -1,7 +1,3 @@
-Here's a comprehensive GitHub repository description for your motion sickness prevention app:
-
----
-
 # MotionAid - Motion Sickness Stabilization Companion 🚗🌀
 
 **Next-gen motion sickness prevention system with adaptive visuals, biofeedback integration, and background overlay support**
